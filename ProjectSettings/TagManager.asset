@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - breakable
+  - unBreakable
+  - wall
+  - spikes
+  - player
+  - exit
+  - lockbox
+  - void
+  - sinSpike
+  - SIN
+  - gigachain
+  - sinHurt
+  - key
+  - pillar
+  - skull
+  - armor
+  - spikeIgniter
+  - utility
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - blockingLayer
+  - Laser Raycast
+  - Laser Death
+  - AMD
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: underBgLayer
+    uniqueID: 2360993101
+    locked: 0
+  - name: BgLayer
+    uniqueID: 1771427943
+    locked: 0
+  - name: spikeLayer
+    uniqueID: 2416783779
+    locked: 0
+  - name: dustLayer
+    uniqueID: 2689468897
+    locked: 0
+  - name: assetsLayer
+    uniqueID: 502777153
+    locked: 0
+  - name: heroLayer
+    uniqueID: 322612859
+    locked: 0
+  - name: vfxLayer
+    uniqueID: 3689065347
+    locked: 0
+  - name: sin_layer
+    uniqueID: 1121559757
+    locked: 0
+  - name: deathLayer
+    uniqueID: 2151757019
+    locked: 0

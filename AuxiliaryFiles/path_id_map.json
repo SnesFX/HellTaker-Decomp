@@ -1,0 +1,8492 @@
+{
+  "Files": [
+    {
+      "Name": "unity builtin extra",
+      "Assets": []
+    },
+    {
+      "Name": "unity default resources",
+      "Assets": [
+        {
+          "PathID": 12001,
+          "Name": "GUISkin",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 11993,
+          "Name": "TemplateAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 11995,
+          "Name": "VisualTreeAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 11998,
+          "Name": "StyleSheet",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 13312,
+          "Name": "Tile",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 13313,
+          "Name": "TileBase",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 19000,
+          "Name": "TextSettings",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 19001,
+          "Name": "FontAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 19002,
+          "Name": "TextSpriteAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 19003,
+          "Name": "TextGradientPreset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 19004,
+          "Name": "TextStyleSheet",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 10001,
+          "Name": "Soft",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10103,
+          "Name": "Font Texture",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10200,
+          "Name": "pSphere1",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10202,
+          "Name": "Cube",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10203,
+          "Name": "pCylinder1",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10204,
+          "Name": "pPlane1",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10205,
+          "Name": "polySurface2",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10206,
+          "Name": "Cylinder",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10207,
+          "Name": "Sphere",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10208,
+          "Name": "Capsule",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10209,
+          "Name": "Plane",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10210,
+          "Name": "Quad",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10211,
+          "Name": "Icosphere",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10212,
+          "Name": "icosahedron",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10213,
+          "Name": "pyramid",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10400,
+          "Name": "UnityWatermark-small",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10401,
+          "Name": "EscToExit_back",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10402,
+          "Name": "EscToExit_Text",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10403,
+          "Name": "UnitySplash-cube",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10406,
+          "Name": "UnityWatermark-trial-big",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10407,
+          "Name": "UnityWatermark-trial",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10408,
+          "Name": "UnityWatermark-beta",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10409,
+          "Name": "UnityWatermark-edu",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10410,
+          "Name": "UnityWatermark-dev",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10411,
+          "Name": "WarningSign",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10413,
+          "Name": "UnityWatermark-proto",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10414,
+          "Name": "UnityWatermarkPlugin-beta",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11001,
+          "Name": "box",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11002,
+          "Name": "button active",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11003,
+          "Name": "button hover",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11004,
+          "Name": "button on hover",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11005,
+          "Name": "button on",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11006,
+          "Name": "button",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11007,
+          "Name": "horizontal scrollbar thumb",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11008,
+          "Name": "horizontal scrollbar",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11009,
+          "Name": "horizontalslider",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11010,
+          "Name": "slider thumb active",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11011,
+          "Name": "slider thumb",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11012,
+          "Name": "slidert humb hover",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11013,
+          "Name": "toggle active",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11014,
+          "Name": "toggle hover",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11015,
+          "Name": "toggle on hover",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11016,
+          "Name": "toggle on",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11017,
+          "Name": "toggle on active",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11018,
+          "Name": "toggle",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11019,
+          "Name": "vertical scrollbar thumb",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11020,
+          "Name": "vertical scrollbar",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11021,
+          "Name": "verticalslider",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11022,
+          "Name": "window on",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11023,
+          "Name": "window",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11024,
+          "Name": "textfield",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11025,
+          "Name": "textfield on",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11026,
+          "Name": "textfield hover",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 15000,
+          "Name": "UnitySplash-HolographicTrackingLoss",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "globalgamemanagers.assets",
+      "Assets": [
+        {
+          "PathID": 4,
+          "Name": "LayoutRebuilder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 5,
+          "Name": "ScrollBarTests",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 6,
+          "Name": "SceneWithNestedLayoutElementsLoads",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 7,
+          "Name": "PositionAsUV1",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 8,
+          "Name": "AnimationPlayableAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 9,
+          "Name": "RemoteTestResultData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 10,
+          "Name": "isteammusicremote",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 11,
+          "Name": "AnimSound",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 12,
+          "Name": "Steam",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 13,
+          "Name": "Asset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 14,
+          "Name": "dialogueElement",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 15,
+          "Name": "UIBehaviour",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 16,
+          "Name": "ExceptionUtils",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 17,
+          "Name": "AssemblyInfo",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 18,
+          "Name": "LogEvent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 19,
+          "Name": "RaycastSortingTests",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 20,
+          "Name": "TrackedPoseDriverTests",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 21,
+          "Name": "CanvasScaler",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 22,
+          "Name": "Dropdown",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 23,
+          "Name": "OuterUnityTestActionCommand",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 24,
+          "Name": "AudioClipProperties",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 25,
+          "Name": "InputAnalogActionHandle_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 26,
+          "Name": "TextEditorTests",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 27,
+          "Name": "isteamgameserverinventory",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 28,
+          "Name": "HTTPRequestHandle",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 29,
+          "Name": "CallbackDispatcher",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 30,
+          "Name": "servernetadr_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 31,
+          "Name": "PlaymodeTestsController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 32,
+          "Name": "CSteamID",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 33,
+          "Name": "CompositeWorkItem",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 34,
+          "Name": "HSteamUser",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 35,
+          "Name": "IAssemblyLoadProxy",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 36,
+          "Name": "RawImage",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 37,
+          "Name": "FakeBaseInput",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 38,
+          "Name": "FontData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 39,
+          "Name": "CanvasScalerWithChildTextObjectDoesNotCrash",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 40,
+          "Name": "ToggleTests",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 41,
+          "Name": "BaseInput",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 42,
+          "Name": "secret_V",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 43,
+          "Name": "SignalEmitter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 44,
+          "Name": "ControlTrack",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 45,
+          "Name": "MonoBehaviourTest",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 46,
+          "Name": "sinChainScript",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 47,
+          "Name": "FakeInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 48,
+          "Name": "isteamuser",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 49,
+          "Name": "EnumerableTestMethodCommand",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 50,
+          "Name": "MouseUpdate",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 51,
+          "Name": "transitionScript",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 52,
+          "Name": "BridgeScriptForRetainingObjects",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 53,
+          "Name": "ImageFilledGenerateWork",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 54,
+          "Name": "SteamLeaderboardEntries_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 55,
+          "Name": "ScrollRect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 56,
+          "Name": "InputHandle_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 57,
+          "Name": "chainLoop",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 58,
+          "Name": "IAssemblyWrapper",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 59,
+          "Name": "isteammatchmaking",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 60,
+          "Name": "TimeControlPlayable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 61,
+          "Name": "BaseInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 62,
+          "Name": "ArmModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 63,
+          "Name": "ButtonTests",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 64,
+          "Name": "TimelineUndo",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 65,
+          "Name": "RemoteTestResultSender",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 66,
+          "Name": "IMaterialModifier",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 67,
+          "Name": "ActivationTrack",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 68,
+          "Name": "EventInterfaces",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 69,
+          "Name": "CoroutineRunner",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 70,
+          "Name": "PartyBeaconID_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 71,
+          "Name": "SpriteState",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 72,
+          "Name": "RaycasterManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 73,
+          "Name": "RestoreTestContextAfterDomainReload",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 74,
+          "Name": "PlaymodeTestsControllerSettings",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 75,
+          "Name": "isteamfriends",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 76,
+          "Name": "SwingArmModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 77,
+          "Name": "MarkerTrack",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 78,
+          "Name": "Scrollbar",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 79,
+          "Name": "isteamunifiedmessages",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 80,
+          "Name": "isteamgameserverclient",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 81,
+          "Name": "isteamapplist",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 82,
+          "Name": "TouchInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 83,
+          "Name": "CallbackIdentity",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 84,
+          "Name": "TestActionCommand",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 85,
+          "Name": "AssemblyWrapper",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 86,
+          "Name": "SNetListenSocket_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 87,
+          "Name": "ToggleGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 88,
+          "Name": "HorizontalLayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 89,
+          "Name": "LayoutElement",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 90,
+          "Name": "MoveDetector",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 91,
+          "Name": "ContentSizeFitterTests",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 92,
+          "Name": "ControllerDigitalActionHandle_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 93,
+          "Name": "sinChainSummon",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 94,
+          "Name": "Mask",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 95,
+          "Name": "SNetSocket_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 96,
+          "Name": "isteamgameserverapps",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 97,
+          "Name": "ContentSizeFitter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 98,
+          "Name": "Extrapolation",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 99,
+          "Name": "ScrollBarClamp",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 100,
+          "Name": "Vector4EqualityComparer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 101,
+          "Name": "RectMask2D",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 102,
+          "Name": "BombardParticles",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 103,
+          "Name": "InputFieldTests",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 104,
+          "Name": "TestCommandPcHelper",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 105,
+          "Name": "ILogScope",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 106,
+          "Name": "RaycastResult",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 107,
+          "Name": "DropdownTests",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 108,
+          "Name": "ILayoutElement",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 109,
+          "Name": "IClipRegion",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 110,
+          "Name": "BaseDelegator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 111,
+          "Name": "HTTPCookieContainerHandle",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 112,
+          "Name": "FontUpdateTracker",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 113,
+          "Name": "SelectableTests",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 114,
+          "Name": "TrackAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 115,
+          "Name": "AnimationTrackUpgrade",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 116,
+          "Name": "QuaternionEqualityComparer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 117,
+          "Name": "EnumerableApplyChangesToContextCommand",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 118,
+          "Name": "PlayModeRunnerCallback",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 119,
+          "Name": "InteropHelp",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 120,
+          "Name": "GraphicRaycasterWorldSpaceCanvasTests",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 121,
+          "Name": "GoalSprite",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 122,
+          "Name": "TimelineAttributes",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 123,
+          "Name": "EventTriggerType",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 124,
+          "Name": "RawImageTestHook",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 125,
+          "Name": "TimelineCreateUtilities",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 126,
+          "Name": "PlayerConnectionMessageIds",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 127,
+          "Name": "BaseRaycaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 128,
+          "Name": "isteamremoteplay",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 129,
+          "Name": "MarkerList",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 130,
+          "Name": "UGCHandle_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 131,
+          "Name": "PrefabControlPlayable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 132,
+          "Name": "PlayerTestAssemblyProvider",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 133,
+          "Name": "Demon",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 134,
+          "Name": "Vector4ComparerWithEqualsOperator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 135,
+          "Name": "GraphicRebuildTracker",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 136,
+          "Name": "RemoteTestResultDataWithTestData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 137,
+          "Name": "UnityLogCheckDelegatingCommand",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 138,
+          "Name": "ControlPlayableAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 139,
+          "Name": "BoneScatterDestroy",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 140,
+          "Name": "AssemblyInfo",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 141,
+          "Name": "isteamhttp",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 142,
+          "Name": "isteamgameserverutils",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 143,
+          "Name": "SteamInventoryUpdateHandle_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 144,
+          "Name": "LogScope",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 145,
+          "Name": "Vector3EqualityComparer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 146,
+          "Name": "AccountID_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 147,
+          "Name": "IMarker",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 148,
+          "Name": "MoveDirection",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 149,
+          "Name": "ConcreteGraphic",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 150,
+          "Name": "HServerQuery",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 151,
+          "Name": "secret_VI",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 152,
+          "Name": "Button",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 153,
+          "Name": "DepotId_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 154,
+          "Name": "AudioPlayableAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 155,
+          "Name": "StandaloneInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 156,
+          "Name": "TestButton",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 157,
+          "Name": "ActionDelegator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 158,
+          "Name": "INotificationOptionProvider",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 159,
+          "Name": "SteamEnums",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 160,
+          "Name": "isteamgameserverhttp",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 161,
+          "Name": "RectMask2DClipping",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 162,
+          "Name": "RTime32",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 163,
+          "Name": "ITimeControl",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 164,
+          "Name": "SkullScript",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 165,
+          "Name": "UnityPlatformAttribute",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 166,
+          "Name": "isteamnetworking",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 167,
+          "Name": "WaveSpike",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 168,
+          "Name": "Physics2DRaycaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 169,
+          "Name": "LaserBeam",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 170,
+          "Name": "LayoutGroupScaling",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 171,
+          "Name": "Vector2EqualityComparer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 172,
+          "Name": "isteamapps",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 173,
+          "Name": "VerticalLayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 174,
+          "Name": "UnityTestExecutionContext",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 175,
+          "Name": "TrackedPoseDriver",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 176,
+          "Name": "HorizonalLayoutGroupTests",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 177,
+          "Name": "UnexpectedLogMessageException",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 178,
+          "Name": "UnityWorkItemDataHolder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 179,
+          "Name": "PublishedFileUpdateHandle_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 180,
+          "Name": "Vector3ComparerWithEqualsOperator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 181,
+          "Name": "ToggleTestImageHook",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 182,
+          "Name": "WorkItemFactory",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 183,
+          "Name": "ImageHook",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 184,
+          "Name": "InputDigitalActionHandle_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 185,
+          "Name": "TestResultRenderer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 186,
+          "Name": "MultipleDisplayUtilities",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 187,
+          "Name": "cannonSoundScript",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 188,
+          "Name": "Text",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 189,
+          "Name": "IStateSerializer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 190,
+          "Name": "UnityTearDownAttribute",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 191,
+          "Name": "AMDBody",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 192,
+          "Name": "IMaskable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 193,
+          "Name": "Navigation",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 194,
+          "Name": "GraphicTestHelper",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 195,
+          "Name": "PostBuildCleanupAttribute",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 196,
+          "Name": "ExecuteEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 197,
+          "Name": "SteamStructs",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 198,
+          "Name": "widgetScript",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 199,
+          "Name": "Vector2ComparerWithEqualsOperator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 200,
+          "Name": "TimelineClip",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 201,
+          "Name": "TestResultExtensions",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 202,
+          "Name": "HServerListRequest",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 203,
+          "Name": "ClipCaps",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 204,
+          "Name": "IPropertyCollector",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 205,
+          "Name": "isteamclient",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 206,
+          "Name": "AnimationPlayableAssetUpgrade",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 207,
+          "Name": "Slider",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 208,
+          "Name": "Clipping",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 209,
+          "Name": "ConstraintsExtensions",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 210,
+          "Name": "FailCommand",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 211,
+          "Name": "StencilMaterial",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 212,
+          "Name": "GraphicRegistry",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 213,
+          "Name": "ClipUpgrade",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 214,
+          "Name": "isteamcontroller",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 215,
+          "Name": "TrackColorAttribute",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 216,
+          "Name": "Spikes",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 217,
+          "Name": "Is",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 218,
+          "Name": "InputActionSetHandle_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 219,
+          "Name": "LabScript",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 220,
+          "Name": "RuntimeClip",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 221,
+          "Name": "RuntimeClipBase",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 222,
+          "Name": "isteamutils",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 223,
+          "Name": "BaseMeshEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 224,
+          "Name": "Moving",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 225,
+          "Name": "RectMask2DWithNestedCanvasCullsUsingCorrectCanvasRect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 226,
+          "Name": "TestListenerWrapper",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 227,
+          "Name": "UGCQueryHandle_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 228,
+          "Name": "TestPlatform",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 229,
+          "Name": "SteamLeaderboard_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 230,
+          "Name": "TestEnumerator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 231,
+          "Name": "PointerEventData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 232,
+          "Name": "SteamAPI_CheckCallbackRegistered_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 233,
+          "Name": "RuntimeElement",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 234,
+          "Name": "EventSystem",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 235,
+          "Name": "DragCallbackCheck",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 236,
+          "Name": "Timeline.deprecated",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 237,
+          "Name": "ScrollRectStableLayout",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 238,
+          "Name": "UnityWorkItem",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 239,
+          "Name": "Selectable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 240,
+          "Name": "UnityCombinatorialStrategy",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 241,
+          "Name": "MaskUtilities",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 242,
+          "Name": "CoroutineTween",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 243,
+          "Name": "isteamremotestorage",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 244,
+          "Name": "ManifestId_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 245,
+          "Name": "AssemblyInfo",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 246,
+          "Name": "Manager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 247,
+          "Name": "HSteamPipe",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 248,
+          "Name": "PlaymodeWorkItemFactory",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 249,
+          "Name": "secret_IV",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 250,
+          "Name": "DeathFade",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 251,
+          "Name": "BeforeAfterTestCommandState",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 252,
+          "Name": "sinShaker",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 253,
+          "Name": "SteamItemDef_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 254,
+          "Name": "isteamvideo",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 255,
+          "Name": "TimelinePlayable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 256,
+          "Name": "widgetScript_ch2",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 257,
+          "Name": "RectTransformValidAfterEnable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 258,
+          "Name": "chainLoopSummon",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 259,
+          "Name": "AppId_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 260,
+          "Name": "isteamuserstats",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 261,
+          "Name": "RemoteTestResultDataFactory",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 262,
+          "Name": "Misc",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 263,
+          "Name": "LayoutUtility",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 264,
+          "Name": "PlayableTrack",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 265,
+          "Name": "ColorBlock",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 266,
+          "Name": "PhysicsRaycasterTests",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 267,
+          "Name": "ImmediateEnumerableCommand",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 268,
+          "Name": "CoroutineWorksIfUIObjectIsAttached",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 269,
+          "Name": "IMeshModifier",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 270,
+          "Name": "AspectRatioFitter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 271,
+          "Name": "ObjectPool",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 272,
+          "Name": "IRemoteTestResultDataFactory",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 273,
+          "Name": "UnityTestAssemblyRunner",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 274,
+          "Name": "MainMenuStart",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 275,
+          "Name": "ClientUnifiedMessageHandle",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 276,
+          "Name": "SteamAPI_PostAPIResultInProcess_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 277,
+          "Name": "IEditModeTestYieldInstruction",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 278,
+          "Name": "ICurvesOwner",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 279,
+          "Name": "Marker",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 280,
+          "Name": "BoneScatter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 281,
+          "Name": "VerticalLayoutGroupTests",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 282,
+          "Name": "GridLayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 283,
+          "Name": "isteaminput",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 284,
+          "Name": "AudioTrack",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 285,
+          "Name": "CameraShake",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 286,
+          "Name": "TestExtensions",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 287,
+          "Name": "DiscreteTime",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 288,
+          "Name": "IntervalTree",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 289,
+          "Name": "NativeMethods",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 290,
+          "Name": "Toggle",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 291,
+          "Name": "AssemblyNameFilter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 292,
+          "Name": "ControllerAnalogActionHandle_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 293,
+          "Name": "BaseEventData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 294,
+          "Name": "IGraphicEnabledDisabled",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 295,
+          "Name": "UGCFileWriteStreamHandle_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 296,
+          "Name": "TransitionArmModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 297,
+          "Name": "TimelineAsset_CreateRemove",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 298,
+          "Name": "CheckMeshColorsAndColors32Match",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 299,
+          "Name": "Utils",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 300,
+          "Name": "isteamgameserver",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 301,
+          "Name": "TimelineUpgrade",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 302,
+          "Name": "InvalidSignatureException",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 303,
+          "Name": "TestableImage",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 304,
+          "Name": "MaskableGraphic",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 305,
+          "Name": "Player",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 306,
+          "Name": "NotificationFlags",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 307,
+          "Name": "UnityTestAssemblyBuilder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 308,
+          "Name": "isteammusic",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 309,
+          "Name": "LogMatch",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 310,
+          "Name": "TestEnumeratorWrapper",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 311,
+          "Name": "InfiniteRuntimeClip",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 312,
+          "Name": "NoActiveCameraInSceneDoesNotCrashEditor",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 313,
+          "Name": "SteamAPIWarningMessageHook_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 314,
+          "Name": "ClipperRegistry",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 315,
+          "Name": "IMonoBehaviourTest",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 316,
+          "Name": "SceneWithNestedLayoutElementsLoadScript",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 317,
+          "Name": "TestRunnerFilter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 318,
+          "Name": "ImageTests",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 319,
+          "Name": "CanvasGroupInheritedAlpha",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 320,
+          "Name": "Credits",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 321,
+          "Name": "AnimationOutputWeightProcessor",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 322,
+          "Name": "ritualScript",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 323,
+          "Name": "ImageTests",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 324,
+          "Name": "HorizontalOrVerticalLayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 325,
+          "Name": "Graphic",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 326,
+          "Name": "SteamCallbacks",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 327,
+          "Name": "CustomSignalEventDrawer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 328,
+          "Name": "IndexedSet",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 329,
+          "Name": "UnhandledLogMessageException",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 330,
+          "Name": "SiteId_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 331,
+          "Name": "BasePoseProvider",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 332,
+          "Name": "isteamgameservernetworking",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 333,
+          "Name": "bossHp",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 334,
+          "Name": "IPrebuildSceneSetup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 335,
+          "Name": "RawImageTest",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 336,
+          "Name": "AttributeHelper",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 337,
+          "Name": "FloatEqualityComparer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 338,
+          "Name": "SteamInventoryResult_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 339,
+          "Name": "TimeNotificationBehaviour",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 340,
+          "Name": "GearsAI",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 341,
+          "Name": "ControllerActionSetHandle_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 342,
+          "Name": "RemoteTestData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 343,
+          "Name": "AxisEventData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 344,
+          "Name": "PublishedFileId_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 345,
+          "Name": "ScheduleRuntimeClip",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 346,
+          "Name": "CGameID",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 347,
+          "Name": "ConstructDelegator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 348,
+          "Name": "SignalTrack",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 349,
+          "Name": "CoroutineTestWorkItem",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 350,
+          "Name": "IPropertyPreview",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 351,
+          "Name": "TextEditorBackspaceDelete",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 352,
+          "Name": "MaskTests",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 353,
+          "Name": "NotificationUtilities",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 354,
+          "Name": "TESTERdir",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 355,
+          "Name": "SetPropertyUtility",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 356,
+          "Name": "IOuterUnityTestAction",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 357,
+          "Name": "GridLayoutGroupTests",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 358,
+          "Name": "ControllerHandle_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 359,
+          "Name": "SteamAPICall_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 360,
+          "Name": "isteamgameserverugc",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 361,
+          "Name": "NestedCanvasMaintainsCorrectSize",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 362,
+          "Name": "DirectorControlPlayable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 363,
+          "Name": "gameserveritem_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 364,
+          "Name": "sinSpikeScript",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 365,
+          "Name": "Packsize",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 366,
+          "Name": "DefaultControls",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 367,
+          "Name": "CanvasUpdateRegistry",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 368,
+          "Name": "TimelineAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 369,
+          "Name": "isteamgameserverstats",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 370,
+          "Name": "SiblingOrderChangesLayout",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 371,
+          "Name": "VertexHelper",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 372,
+          "Name": "ListPool",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 373,
+          "Name": "PhysicsRaycaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 374,
+          "Name": "ITestAssemblyProvider",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 375,
+          "Name": "RectangularVertexClipper",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 376,
+          "Name": "AnimationTriggers",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 377,
+          "Name": "TrackUpgrade",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 378,
+          "Name": "DefaultTestWorkItem",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 379,
+          "Name": "LogAssert",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 380,
+          "Name": "LayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 381,
+          "Name": "PointerInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 382,
+          "Name": "BeforeAfterTestCommandBase",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 383,
+          "Name": "AssemblyInfo",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 384,
+          "Name": "UnitySetUpAttribute",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 385,
+          "Name": "IMask",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 386,
+          "Name": "Shadow",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 387,
+          "Name": "AllocatingGCMemoryConstraint",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 388,
+          "Name": "isteaminventory",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 389,
+          "Name": "EventTrigger",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 390,
+          "Name": "HashUtility",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 391,
+          "Name": "GroupTrack",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 392,
+          "Name": "fireIgniter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 393,
+          "Name": "InputField",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 394,
+          "Name": "ITestRunnerListener",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 395,
+          "Name": "PrebuildSceneSetupAttribute",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 396,
+          "Name": "ActivationControlPlayable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 397,
+          "Name": "AnimationTrack",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 398,
+          "Name": "HHTMLBrowser",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 399,
+          "Name": "TrackExtensions",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 400,
+          "Name": "UIBehaviourExtensions",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 401,
+          "Name": "ScrollRectClamp",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 402,
+          "Name": "ColorEqualityComparer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 403,
+          "Name": "AnimDestroy",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 404,
+          "Name": "SignalAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 405,
+          "Name": "AudioMixerProperties",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 406,
+          "Name": "ScrollRectTests",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 407,
+          "Name": "D_charaScript",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 408,
+          "Name": "CreateSceneUtility",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 409,
+          "Name": "EventHandle",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 410,
+          "Name": "IEnumerableTestMethodCommand",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 411,
+          "Name": "GraphicRaycaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 412,
+          "Name": "EnumerableSetUpTearDownCommand",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 413,
+          "Name": "CanvasSizeCorrectInAwakeAndStartScript",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 414,
+          "Name": "TestResultRendererCallback",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 415,
+          "Name": "SteamItemInstanceID_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 416,
+          "Name": "SetUpTearDownCommand",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 417,
+          "Name": "ActivationMixerPlayable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 418,
+          "Name": "bloodSplash",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 419,
+          "Name": "Outline",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 420,
+          "Name": "UGCUpdateHandle_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 421,
+          "Name": "InputModuleTests",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 422,
+          "Name": "SignalReceiver",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 423,
+          "Name": "isteamhtmlsurface",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 424,
+          "Name": "GraphicRaycasterTests",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 425,
+          "Name": "WeightUtility",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 426,
+          "Name": "GraphicTests",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 427,
+          "Name": "LayoutGroupArrangement",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 428,
+          "Name": "ScrollRectScale",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 429,
+          "Name": "PrivateFieldSetter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 430,
+          "Name": "ScreenshotHandle",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 431,
+          "Name": "isteamparentalsettings",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 432,
+          "Name": "portalEnter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 433,
+          "Name": "CategoryFilterExtended",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 434,
+          "Name": "CanvasSizeCorrectInAwakeAndStart",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 435,
+          "Name": "SteamConstants",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 436,
+          "Name": "SteamManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 437,
+          "Name": "AMDLoop",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 438,
+          "Name": "ScriptingRuntimeProxy",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 439,
+          "Name": "Achiever",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 440,
+          "Name": "pusherScript",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 441,
+          "Name": "ParticleControlPlayable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 442,
+          "Name": "TimeUtility",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 443,
+          "Name": "pauseMenu",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 444,
+          "Name": "TimelinePlaymodeTests",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 445,
+          "Name": "isteamscreenshots",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 446,
+          "Name": "AssemblyLoadProxy",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 447,
+          "Name": "SliderTests",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 448,
+          "Name": "StacktraceFilter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 449,
+          "Name": "NestedCanvas",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 450,
+          "Name": "ReflectionMethodsCache",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 451,
+          "Name": "isteamugc",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 452,
+          "Name": "ActivationPlayableAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 453,
+          "Name": "BasicScriptPlayable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 454,
+          "Name": "IScriptingRuntimeProxy",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 455,
+          "Name": "Image",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 456,
+          "Name": "UnityTestAttribute",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 457,
+          "Name": "HAuthTicket",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 458,
+          "Name": "FriendsGroupID_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 459,
+          "Name": "ISteamMatchmakingResponses",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 460,
+          "Name": "IPostBuildCleanup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 461,
+          "Name": "UnityTestTimeoutException",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 3,
+          "Name": "",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets0.assets",
+      "Assets": [
+        {
+          "PathID": 6,
+          "Name": "Default-Particle",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7,
+          "Name": "UISprite",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8,
+          "Name": "huge_vfx0017",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 9,
+          "Name": "hero0031",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10,
+          "Name": "huge_vfx0018",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11,
+          "Name": "lovePlosion0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 12,
+          "Name": "transitionHM0015",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 13,
+          "Name": "huge_vfx0008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 14,
+          "Name": "assets100V20054",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 15,
+          "Name": "huge_vfx0024",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 16,
+          "Name": "hero0041",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 17,
+          "Name": "transition0023",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 18,
+          "Name": "ritBorder",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 19,
+          "Name": "huge_vfx0025",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 20,
+          "Name": "huge_vfx0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 21,
+          "Name": "hero0024",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 22,
+          "Name": "huge_vfx0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 23,
+          "Name": "death_P20001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 24,
+          "Name": "hero0074",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 25,
+          "Name": "huge_vfx0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 26,
+          "Name": "hero0068",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 27,
+          "Name": "hero0043",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 28,
+          "Name": "transition0009",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 29,
+          "Name": "success0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 30,
+          "Name": "transition0014",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 31,
+          "Name": "booper0018",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 32,
+          "Name": "dialogueBG_hell",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 33,
+          "Name": "transitionHM0025",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 34,
+          "Name": "cutscene_0003_Group-3-copy-2",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 35,
+          "Name": "lovePlosion0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 36,
+          "Name": "booper0027",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 37,
+          "Name": "hero0044",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 38,
+          "Name": "transition0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 39,
+          "Name": "hero0051",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 40,
+          "Name": "huge_vfx0026",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 41,
+          "Name": "lovesign",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 42,
+          "Name": "pandemonica_finalModel0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 43,
+          "Name": "booper0011",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 44,
+          "Name": "hero0065",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 45,
+          "Name": "Font Texture",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 46,
+          "Name": "transition0017",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 47,
+          "Name": "transitionHM0026",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 48,
+          "Name": "pandemonica_finalModel0008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 49,
+          "Name": "lovePlosion0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 50,
+          "Name": "small_vfx0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 51,
+          "Name": "transition0019",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 52,
+          "Name": "hero0067",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 53,
+          "Name": "transitionHM0029",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 54,
+          "Name": "huge_vfx0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 55,
+          "Name": "lovePlosion0012",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 56,
+          "Name": "transition0029",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 57,
+          "Name": "W_chapter1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 58,
+          "Name": "pandemonica_finalModel0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 59,
+          "Name": "hero0032",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 60,
+          "Name": "booper0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 61,
+          "Name": "huge_vfx0015",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 62,
+          "Name": "booper0020",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 63,
+          "Name": "death_P20011",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 64,
+          "Name": "pandemonica_finalModel0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 65,
+          "Name": "death_P20009",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 66,
+          "Name": "huge_vfx0014",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 67,
+          "Name": "particle0011",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 68,
+          "Name": "hero0049",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 69,
+          "Name": "hero0066",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 70,
+          "Name": "hero0073",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 71,
+          "Name": "huge_vfx0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 72,
+          "Name": "transitionHM0011",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 73,
+          "Name": "particle0009",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 74,
+          "Name": "lovePlosion0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 75,
+          "Name": "success0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 76,
+          "Name": "death_P20013",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 77,
+          "Name": "small_vfx0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 78,
+          "Name": "transitionHM0014",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 79,
+          "Name": "ritCode0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 80,
+          "Name": "small_vfx0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 81,
+          "Name": "transitionHM0008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 82,
+          "Name": "huge_vfx0016",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 83,
+          "Name": "hero0076",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 84,
+          "Name": "transition0027",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 85,
+          "Name": "hero0026",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 86,
+          "Name": "transition0012",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 87,
+          "Name": "lovePlosion0015",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 88,
+          "Name": "hero0064",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 89,
+          "Name": "huge_vfx0021",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 90,
+          "Name": "death_P20017",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 91,
+          "Name": "ritStar",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 92,
+          "Name": "hero0045",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 93,
+          "Name": "transition0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 94,
+          "Name": "transition0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 95,
+          "Name": "pandemonica_finalModel0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 96,
+          "Name": "beel_fly",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 97,
+          "Name": "cutscene_0002_Group-2",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 98,
+          "Name": "booper0019",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 99,
+          "Name": "booper0016",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 100,
+          "Name": "W_chapter2",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 101,
+          "Name": "death_P20015",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 102,
+          "Name": "booper0026",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 103,
+          "Name": "huge_vfx0011",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 104,
+          "Name": "booper0014",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 105,
+          "Name": "small_vfx0010",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 106,
+          "Name": "transitionHM0009",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 107,
+          "Name": "ritCode0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 108,
+          "Name": "death_P20003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 109,
+          "Name": "lovePlosion0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 110,
+          "Name": "transitionHM0030",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 111,
+          "Name": "assets100V20055",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 112,
+          "Name": "transitionHM0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 113,
+          "Name": "transition0011",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 114,
+          "Name": "booper0015",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 115,
+          "Name": "huge_vfx0013",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 116,
+          "Name": "hero0029",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 117,
+          "Name": "death_P20007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 118,
+          "Name": "small_vfx0017",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 119,
+          "Name": "small_vfx0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 120,
+          "Name": "assets100V20057",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 121,
+          "Name": "huge_vfx0022",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 122,
+          "Name": "transitionHM0024",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 123,
+          "Name": "booper0017",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 124,
+          "Name": "huge_vfx0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 125,
+          "Name": "booper0013",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 126,
+          "Name": "booper0012",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 127,
+          "Name": "ritCode0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 128,
+          "Name": "hero0063",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 129,
+          "Name": "hero0040",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 130,
+          "Name": "booper0022",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 131,
+          "Name": "pandemonica_finalModel0012",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 132,
+          "Name": "hero0033",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 133,
+          "Name": "small_vfx0014",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 134,
+          "Name": "success0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 135,
+          "Name": "huge_vfx0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 136,
+          "Name": "Font Texture",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 137,
+          "Name": "small_vfx0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 138,
+          "Name": "transition0021",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 139,
+          "Name": "success0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 140,
+          "Name": "small_vfx0009",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 141,
+          "Name": "huge_vfx0009",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 142,
+          "Name": "lovePlosion0010",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 143,
+          "Name": "dialogueBG_abyss02Grad",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 144,
+          "Name": "transition0015",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 145,
+          "Name": "small_vfx0012",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 146,
+          "Name": "lovePlosion0011",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 147,
+          "Name": "ritCode0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 148,
+          "Name": "success0008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 149,
+          "Name": "death_P20005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 150,
+          "Name": "pandemonica_finalModel0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 151,
+          "Name": "transition0020",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 152,
+          "Name": "small_vfx0013",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 153,
+          "Name": "transition0013",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 154,
+          "Name": "transitionHM0027",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 155,
+          "Name": "hero0030",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 156,
+          "Name": "transitionHM0010",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 157,
+          "Name": "hero0075",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 158,
+          "Name": "death_P20014",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 159,
+          "Name": "booper0023",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 160,
+          "Name": "death_P20012",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 161,
+          "Name": "hero0077",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 162,
+          "Name": "small_vfx0011",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 163,
+          "Name": "mainUIexport_fUI0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 164,
+          "Name": "lovePlosion0013",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 165,
+          "Name": "hero0059",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 166,
+          "Name": "transition0018",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 167,
+          "Name": "booper0028",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 168,
+          "Name": "booper0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 169,
+          "Name": "pandemonica_finalModel0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 170,
+          "Name": "booper0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 171,
+          "Name": "small_vfx0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 172,
+          "Name": "dialogueBG_abyss02",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 173,
+          "Name": "booper0010",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 174,
+          "Name": "transition0026",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 175,
+          "Name": "huge_vfx0019",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 176,
+          "Name": "lovePlosion0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 177,
+          "Name": "hero0072",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 178,
+          "Name": "transitionHM0016",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 179,
+          "Name": "transitionHM0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 180,
+          "Name": "hero0028",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 181,
+          "Name": "huge_vfx0020",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 182,
+          "Name": "death_P20004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 183,
+          "Name": "pandemonica_finalModel0009",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 184,
+          "Name": "transition0028",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 185,
+          "Name": "success0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 186,
+          "Name": "pandemonica_finalModel0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 187,
+          "Name": "transitionHM0028",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 188,
+          "Name": "W_chapterSelect",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 189,
+          "Name": "assets100V20053",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 190,
+          "Name": "death_P20006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 191,
+          "Name": "hero0025",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 192,
+          "Name": "booper0021",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 193,
+          "Name": "transitionHM0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 194,
+          "Name": "hero0023",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 195,
+          "Name": "hero0050",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 196,
+          "Name": "booper0024",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 197,
+          "Name": "hero0022",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 198,
+          "Name": "transition0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 199,
+          "Name": "death_P20010",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 200,
+          "Name": "hero0042",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 201,
+          "Name": "death_P20018",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 202,
+          "Name": "pandemonica_finalModel0010",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 203,
+          "Name": "transition0016",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 204,
+          "Name": "button0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 205,
+          "Name": "lovePlosion0008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 206,
+          "Name": "particle0010",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 207,
+          "Name": "transitionHM0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 208,
+          "Name": "hero0046",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 209,
+          "Name": "small_vfx0016",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 210,
+          "Name": "transitionHM0013",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 211,
+          "Name": "booper0008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 212,
+          "Name": "booper0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 213,
+          "Name": "transitionHM0023",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 214,
+          "Name": "transition0030",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 215,
+          "Name": "assets100V20056",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 216,
+          "Name": "hero0047",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 217,
+          "Name": "transition0022",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 218,
+          "Name": "transition0008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 219,
+          "Name": "booper0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 220,
+          "Name": "hero0052",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 221,
+          "Name": "transition0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 222,
+          "Name": "transition0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 223,
+          "Name": "assets100V20058",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 224,
+          "Name": "small_vfx0008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 225,
+          "Name": "booper0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 226,
+          "Name": "booper0009",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 227,
+          "Name": "man_skele",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 228,
+          "Name": "100tile0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 229,
+          "Name": "hero0069",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 230,
+          "Name": "death_P20016",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 231,
+          "Name": "booper0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 232,
+          "Name": "hero0071",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 233,
+          "Name": "transition0025",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 234,
+          "Name": "nullTransit",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 235,
+          "Name": "small_vfx0015",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 236,
+          "Name": "huge_vfx0027",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 237,
+          "Name": "hero0061",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 238,
+          "Name": "death_P20008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 239,
+          "Name": "hero0070",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 240,
+          "Name": "lovePlosion0009",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 241,
+          "Name": "button_small",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 242,
+          "Name": "hero0048",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 243,
+          "Name": "transition0010",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 244,
+          "Name": "huge_vfx0010",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 245,
+          "Name": "pandemonica_finalModel0011",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 246,
+          "Name": "transition0024",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 247,
+          "Name": "transitionHM0012",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 248,
+          "Name": "hero0060",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 249,
+          "Name": "huge_vfx0012",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 250,
+          "Name": "success0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 251,
+          "Name": "button0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 252,
+          "Name": "transitionHM0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 253,
+          "Name": "death_P20002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 254,
+          "Name": "cutscene_0004_Layer-273-copy",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 255,
+          "Name": "lovePlosion0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 256,
+          "Name": "transitionHM0022",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 257,
+          "Name": "huge_vfx0023",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 258,
+          "Name": "booper0025",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 259,
+          "Name": "hero0027",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 260,
+          "Name": "small_vfx0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 261,
+          "Name": "hero0062",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 262,
+          "Name": "success0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 263,
+          "Name": "lovePlosion0014",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 264,
+          "Name": "transitionHM0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 309,
+          "Name": "boss_chain_damage_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 310,
+          "Name": "door_opening_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 311,
+          "Name": "boss_chain_damage_03",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 312,
+          "Name": "key_pick_up_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 313,
+          "Name": "button_menu_confirm_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 314,
+          "Name": "Apropos",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 315,
+          "Name": "screen_changer_2_part2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 316,
+          "Name": "spikes_damage_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 317,
+          "Name": "boss_machine_loop_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 318,
+          "Name": "screen_changer_part2_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 319,
+          "Name": "succub_capture_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 320,
+          "Name": "button_chapter_confirm_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 321,
+          "Name": "button_chapter_highlight_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 322,
+          "Name": "bad_end_screen_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 323,
+          "Name": "player_death_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 324,
+          "Name": "button_menu_highlight_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 325,
+          "Name": "spikes_damage_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 326,
+          "Name": "screen_changer_2_part1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 327,
+          "Name": "boss_chain_damage_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 328,
+          "Name": "character_move_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 329,
+          "Name": "dialogue_text_end_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 330,
+          "Name": "dialogue_success_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 331,
+          "Name": "screen_changer_part1_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 332,
+          "Name": "boss2_machine_loop_01",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets1.assets",
+      "Assets": [
+        {
+          "PathID": 2,
+          "Name": "assets100V20201",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3,
+          "Name": "fire0009",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4,
+          "Name": "particle0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5,
+          "Name": "fire0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6,
+          "Name": "fire0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7,
+          "Name": "FLAMEbase0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8,
+          "Name": "assets100V20200",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 9,
+          "Name": "assets100V20232",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10,
+          "Name": "dialogueDeathExport0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11,
+          "Name": "particle0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 12,
+          "Name": "chapterBG0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 13,
+          "Name": "assets100V20203",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 14,
+          "Name": "assets100V20236",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 15,
+          "Name": "vfx0008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 16,
+          "Name": "assets100V20233",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 17,
+          "Name": "fire0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 18,
+          "Name": "fire0010",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 19,
+          "Name": "fire0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 20,
+          "Name": "boxExport0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 21,
+          "Name": "boxExport0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 22,
+          "Name": "fire0008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 23,
+          "Name": "vfx0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 24,
+          "Name": "boxExport0008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 25,
+          "Name": "pand_flust",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 26,
+          "Name": "100tile0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 27,
+          "Name": "dialogueDeathExport0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 28,
+          "Name": "vfx0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 29,
+          "Name": "particle0008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 30,
+          "Name": "assets100V20198",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 31,
+          "Name": "assets100V20231",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 32,
+          "Name": "dialogueDeathExport0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 33,
+          "Name": "assets100V20234",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 34,
+          "Name": "assets100V20226",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 35,
+          "Name": "mainUIexport_bUI2",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 36,
+          "Name": "vfx0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 37,
+          "Name": "vfx0010",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 38,
+          "Name": "particle0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 39,
+          "Name": "assets100V20202",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 40,
+          "Name": "pand_idle",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 41,
+          "Name": "dialogueDeathExport0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 42,
+          "Name": "fire0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 43,
+          "Name": "assets100V20228",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 44,
+          "Name": "fire0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 45,
+          "Name": "dialogueDeathExport0008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 46,
+          "Name": "dialogueDeathExport0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 47,
+          "Name": "dialogueDeathExport0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 48,
+          "Name": "vfx0009",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 49,
+          "Name": "assets100V20235",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 50,
+          "Name": "fire0012",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 51,
+          "Name": "assets100V20229",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 52,
+          "Name": "100tile0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 53,
+          "Name": "vfx0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 54,
+          "Name": "particle0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 55,
+          "Name": "FLAMEbase0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 56,
+          "Name": "assets100V20227",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 57,
+          "Name": "vfx0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 58,
+          "Name": "dialogueDeathExport0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 59,
+          "Name": "fire0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 60,
+          "Name": "vfx0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 61,
+          "Name": "dialogueDeathExport0009",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 62,
+          "Name": "assets100V20225",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 63,
+          "Name": "assets100V20230",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 64,
+          "Name": "boxExport0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 65,
+          "Name": "particle0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 66,
+          "Name": "fire0011",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 67,
+          "Name": "particle0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 68,
+          "Name": "vfx0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 69,
+          "Name": "assets100V20199",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 78,
+          "Name": "enemy_kick_03",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 79,
+          "Name": "dialogue_start_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 80,
+          "Name": "stone_kick_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 81,
+          "Name": "stone_kick_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 82,
+          "Name": "stone_move_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 83,
+          "Name": "enemy_die_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 84,
+          "Name": "Vitality",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 85,
+          "Name": "enemy_die_03",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 86,
+          "Name": "enemy_die_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 87,
+          "Name": "button_dialogue_confirm_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 88,
+          "Name": "enemy_kick_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 89,
+          "Name": "button_dialogue_highlight_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 90,
+          "Name": "enemy_kick_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 91,
+          "Name": "stone_move_03",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 92,
+          "Name": "stone_kick_03",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 93,
+          "Name": "stone_move_01",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets21.assets",
+      "Assets": [
+        {
+          "PathID": 4,
+          "Name": "labBotfrost2",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5,
+          "Name": "sub670016",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6,
+          "Name": "labHolo10001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7,
+          "Name": "sub670009",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8,
+          "Name": "lucy_stand1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 9,
+          "Name": "sub670020",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10,
+          "Name": "labFloor0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11,
+          "Name": "shieldfield_dlc",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 12,
+          "Name": "labHolo20001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 13,
+          "Name": "labHolo10004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 14,
+          "Name": "sub670031",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 15,
+          "Name": "sub670024",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 16,
+          "Name": "labSparks0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 17,
+          "Name": "sub670010",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 18,
+          "Name": "sub670012",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 19,
+          "Name": "labHolo10002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 20,
+          "Name": "labCrates20001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 21,
+          "Name": "labFloor0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 22,
+          "Name": "labLaser0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 23,
+          "Name": "labBotfrost",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 24,
+          "Name": "newHolo0010",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 25,
+          "Name": "labGenerator0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 26,
+          "Name": "newHolo0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 27,
+          "Name": "sub670018",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 28,
+          "Name": "labSidefrost0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 29,
+          "Name": "labFloor0008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 30,
+          "Name": "newHolo0009",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 31,
+          "Name": "labMonitor",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 32,
+          "Name": "labSparks0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 33,
+          "Name": "sub670003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 34,
+          "Name": "hm_intro",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 35,
+          "Name": "labWall",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 36,
+          "Name": "su67_a",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 37,
+          "Name": "sub670023",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 38,
+          "Name": "sub670004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 39,
+          "Name": "labCrates20006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 40,
+          "Name": "sub670014",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 41,
+          "Name": "labFloor0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 42,
+          "Name": "labSparks0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 43,
+          "Name": "newHolo0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 44,
+          "Name": "sub670025",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 45,
+          "Name": "labSparks0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 46,
+          "Name": "newHolo0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 47,
+          "Name": "labHolo10003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 48,
+          "Name": "screen",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 49,
+          "Name": "break_dlc",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 50,
+          "Name": "sub670019",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 51,
+          "Name": "sub670002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 52,
+          "Name": "sector0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 53,
+          "Name": "hm_data",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 54,
+          "Name": "labCrates20007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 55,
+          "Name": "labLaser0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 56,
+          "Name": "sub670013",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 57,
+          "Name": "labFloor0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 58,
+          "Name": "sub670030",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 59,
+          "Name": "labSparks0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 60,
+          "Name": "Font Texture",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 61,
+          "Name": "sub670001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 62,
+          "Name": "sub670005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 63,
+          "Name": "labHolo20004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 64,
+          "Name": "labLaser0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 65,
+          "Name": "labHolo20003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 66,
+          "Name": "newHolo0008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 67,
+          "Name": "labSparks0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 68,
+          "Name": "labLaser0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 69,
+          "Name": "sub670022",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 70,
+          "Name": "labSidewall0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 71,
+          "Name": "newHolo0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 72,
+          "Name": "labSparks0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 73,
+          "Name": "sub670021",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 74,
+          "Name": "labHolo3",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 75,
+          "Name": "labSidefrost0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 76,
+          "Name": "sub670008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 77,
+          "Name": "sub670007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 78,
+          "Name": "sub670026",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 79,
+          "Name": "labFloor0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 80,
+          "Name": "sub670017",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 81,
+          "Name": "labFloor0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 82,
+          "Name": "labFloor0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 83,
+          "Name": "labLaser0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 84,
+          "Name": "labGenerator0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 85,
+          "Name": "sub670006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 86,
+          "Name": "whiteCircle",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 87,
+          "Name": "sub670027",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 88,
+          "Name": "labSparks0008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 89,
+          "Name": "sub670015",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 90,
+          "Name": "newHolo0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 91,
+          "Name": "newHolo0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 92,
+          "Name": "dlcBGV2_a",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 93,
+          "Name": "lilSpark",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 94,
+          "Name": "labGenerator0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 95,
+          "Name": "labLaser0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 96,
+          "Name": "labSidefrost0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 97,
+          "Name": "sub670028",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 98,
+          "Name": "labHolo20002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 99,
+          "Name": "sub670029",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 100,
+          "Name": "sub670011",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 116,
+          "Name": "hologram_show_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 117,
+          "Name": "boss_chain_break_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 118,
+          "Name": "gen_glass_break_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 119,
+          "Name": "Alchemy",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets28.assets",
+      "Assets": [
+        {
+          "PathID": 2,
+          "Name": "lucy_sly",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3,
+          "Name": "su67_suit",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4,
+          "Name": "dlcBGV2_b",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5,
+          "Name": "dlcCutscen2",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets27.assets",
+      "Assets": [
+        {
+          "PathID": 2,
+          "Name": "sparks_EXPORT0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3,
+          "Name": "boss_EXPORT_HALF0042",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4,
+          "Name": "pomp_EXPORT0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5,
+          "Name": "pomp_EXPORT0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6,
+          "Name": "boss_EXPORT_HALF0017",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7,
+          "Name": "sparks_EXPORT0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8,
+          "Name": "boss_EXPORT20041",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 9,
+          "Name": "boss_EXPORT20058",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10,
+          "Name": "skullwall_dlc",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11,
+          "Name": "cannon_EXPORT_PIECE0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 12,
+          "Name": "pomp_EXPORT0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 13,
+          "Name": "hm_pie",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 14,
+          "Name": "boss_EXPORT_HALF0023",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 15,
+          "Name": "sparks_EXPORT0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 16,
+          "Name": "cannon_EXPORT_BG0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 17,
+          "Name": "boss_EXPORT_HALF0045",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 18,
+          "Name": "boss_EXPORT_HALF0019",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 19,
+          "Name": "boss_EXPORT_HALF0047",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 20,
+          "Name": "sparks_EXPORT0014",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 21,
+          "Name": "boss_EXPORT20004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 22,
+          "Name": "sparks_EXPORT0009",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 23,
+          "Name": "waveSpikes0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 24,
+          "Name": "waveSpikes0009",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 25,
+          "Name": "waveSpikes0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 26,
+          "Name": "cannon_EXPORT_SHELL0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 27,
+          "Name": "boss_EXPORT_HALF0031",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 28,
+          "Name": "boss_EXPORT20003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 29,
+          "Name": "hm_gift",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 30,
+          "Name": "sparks_EXPORT0010",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 31,
+          "Name": "boss_EXPORT_HALF0046",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 32,
+          "Name": "sparks_EXPORT0015",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 33,
+          "Name": "boss_EXPORT20006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 34,
+          "Name": "boss_EXPORT_HALF0049",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 35,
+          "Name": "boss_EXPORT_HALF0044",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 36,
+          "Name": "boss_EXPORT20056",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 37,
+          "Name": "boss_EXPORT_HALF0026",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 38,
+          "Name": "cannon_EXPORT_PIECE0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 39,
+          "Name": "pomp_EXPORT0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 40,
+          "Name": "ju_pie",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 41,
+          "Name": "boss_EXPORT_HALF0011",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 42,
+          "Name": "boss_EXPORT_HALF_breath",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 43,
+          "Name": "cannon_EXPORT_PIECE0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 44,
+          "Name": "boss_EXPORT_HALF0009",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 45,
+          "Name": "boss_EXPORT20053",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 46,
+          "Name": "cannon_EXPORT_SHELL0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 47,
+          "Name": "boss_EXPORT_HALF0020",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 48,
+          "Name": "hm_success",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 49,
+          "Name": "boss_EXPORT_HALF0032",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 50,
+          "Name": "boss_EXPORT_HALF0024",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 51,
+          "Name": "cannon_EXPORT_SHELL0008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 52,
+          "Name": "boss_EXPORT20005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 53,
+          "Name": "cannon_EXPORT_SHELL0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 54,
+          "Name": "boss_EXPORT20001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 55,
+          "Name": "explo_EXPORT0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 56,
+          "Name": "lucy_eat",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 57,
+          "Name": "boss_EXPORT_HALF0013",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 58,
+          "Name": "boss_EXPORT_HALF0050",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 59,
+          "Name": "projectile",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 60,
+          "Name": "boss_EXPORT_HALF0021",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 61,
+          "Name": "sparks_EXPORT0008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 62,
+          "Name": "sparks_EXPORT0013",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 63,
+          "Name": "sparks_EXPORT0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 64,
+          "Name": "lucy_pie",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 65,
+          "Name": "waveSpikes0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 66,
+          "Name": "cannon_EXPORT_SHELL0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 67,
+          "Name": "boss_EXPORT_HALF0027",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 68,
+          "Name": "waveSpikes0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 69,
+          "Name": "cannon_EXPORT_SHELL0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 70,
+          "Name": "boss_EXPORT_HALF0039",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 71,
+          "Name": "dlcCutscen1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 72,
+          "Name": "boss_EXPORT20002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 73,
+          "Name": "boss_EXPORT_HALF0028",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 74,
+          "Name": "boss_EXPORT_HALF0015",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 75,
+          "Name": "boss_EXPORT_HALF0025",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 76,
+          "Name": "cannon_EXPORT_SHELL0009",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 77,
+          "Name": "waveSpikes0000",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 78,
+          "Name": "boss_EXPORT20008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 79,
+          "Name": "boss_EXPORT_HALF0038",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 80,
+          "Name": "explo_EXPORT0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 81,
+          "Name": "boss_EXPORT_HALF0018",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 82,
+          "Name": "boss_EXPORT20007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 83,
+          "Name": "boss_EXPORT_HALF0034",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 84,
+          "Name": "boss_EXPORT_HALF0012",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 85,
+          "Name": "cannon_EXPORT_PIECE0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 86,
+          "Name": "pomp_EXPORT0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 87,
+          "Name": "cannon_EXPORT_SHELL0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 88,
+          "Name": "boss_EXPORT_HALF0022",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 89,
+          "Name": "cannon_EXPORT_SHELL0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 90,
+          "Name": "boss_EXPORT_HALF0041",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 91,
+          "Name": "FLOOR",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 92,
+          "Name": "pomp_EXPORT0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 93,
+          "Name": "boss_EXPORT_HALF0048",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 94,
+          "Name": "boss_EXPORT_HALF0036",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 95,
+          "Name": "sparks_EXPORT0011",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 96,
+          "Name": "bossFloor",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 97,
+          "Name": "boss_EXPORT_HALF0043",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 98,
+          "Name": "boss_EXPORT_HALF0030",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 99,
+          "Name": "boss_EXPORT_HALF0029",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 100,
+          "Name": "boss_EXPORT_HALF0010",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 101,
+          "Name": "sparks_EXPORT0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 102,
+          "Name": "boss_EXPORT20057",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 103,
+          "Name": "waveSpikes0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 104,
+          "Name": "cannon_EXPORT_SHELL0010",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 105,
+          "Name": "target_EXPORT0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 106,
+          "Name": "boss_EXPORT_HALF0037",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 107,
+          "Name": "cannon_EXPORT_INSIDE",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 108,
+          "Name": "sparks_EXPORT0012",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 109,
+          "Name": "sparks_EXPORT0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 110,
+          "Name": "boss_EXPORT20054",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 111,
+          "Name": "cannon_EXPORT_PIECE0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 112,
+          "Name": "boss_EXPORT20055",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 113,
+          "Name": "boss_EXPORT_HALF0016",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 114,
+          "Name": "waveSpikes0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 115,
+          "Name": "boss_EXPORT_HALF0051",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 116,
+          "Name": "explo_EXPORT0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 117,
+          "Name": "cannon_EXPORT_PIECE0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 118,
+          "Name": "boss_EXPORT20052",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 119,
+          "Name": "sparks_EXPORTalt",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 120,
+          "Name": "explo_EXPORT0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 121,
+          "Name": "sparks_EXPORT0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 122,
+          "Name": "boss_EXPORT_HALF0035",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 123,
+          "Name": "ju_shucks",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 124,
+          "Name": "waveSpikes0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 125,
+          "Name": "boss_EXPORT_HALF0033",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 126,
+          "Name": "pomp_EXPORT0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 127,
+          "Name": "boss_EXPORT_HALF0040",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 128,
+          "Name": "explo_EXPORT0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 129,
+          "Name": "boss_EXPORT_HALF0014",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 170,
+          "Name": "boss2_cannon_explosion_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 171,
+          "Name": "boss2_cannon_explosion_05",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 172,
+          "Name": "boss2_cannon_explosion_04",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 173,
+          "Name": "boss2_beam_strong_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 174,
+          "Name": "boss2_cannon_shot_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 175,
+          "Name": "boss2_damage_05",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 176,
+          "Name": "boss2_hand_hit_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 177,
+          "Name": "boss2_dance_start_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 178,
+          "Name": "boss2_hand_hit_03",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 179,
+          "Name": "boss2_cannon_explosion_03",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 180,
+          "Name": "boss2_cannon_show_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 181,
+          "Name": "boss2_battle_end_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 182,
+          "Name": "boss2_cannon_explosion_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 183,
+          "Name": "boss2_beam_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 184,
+          "Name": "boss2_batte_start_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 185,
+          "Name": "boss2_damage_04",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 186,
+          "Name": "Titanium",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 187,
+          "Name": "boss2_damage_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 188,
+          "Name": "boss2_cannon_explosion_06",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 189,
+          "Name": "boss2_hand_hit_04",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 190,
+          "Name": "boss2_cannon_shot_03",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 191,
+          "Name": "boss2_battle_end_part2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 192,
+          "Name": "boss2_hands_hit_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 193,
+          "Name": "boss2_cannon_shot_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 194,
+          "Name": "boss2_cannon_shot_04",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 195,
+          "Name": "boss2_hands_hit_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 196,
+          "Name": "boss2_damage_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 197,
+          "Name": "boss2_damage_03",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 198,
+          "Name": "boss2_hand_hit_02",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets26.assets",
+      "Assets": [
+        {
+          "PathID": 2,
+          "Name": "hm_p1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3,
+          "Name": "sector0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4,
+          "Name": "lucy_stand2",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5,
+          "Name": "hm_excite",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6,
+          "Name": "hm_p2",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7,
+          "Name": "labSidefrost0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8,
+          "Name": "hm_p3",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets25.assets",
+      "Assets": [
+        {
+          "PathID": 2,
+          "Name": "hm_curious",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3,
+          "Name": "sector0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4,
+          "Name": "hm_mock",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5,
+          "Name": "lucy_smug",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets22.assets",
+      "Assets": [
+        {
+          "PathID": 2,
+          "Name": "wallTube",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3,
+          "Name": "hm_happy",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4,
+          "Name": "labSidefrost0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5,
+          "Name": "wallVent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6,
+          "Name": "sector0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7,
+          "Name": "labSidefrost0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8,
+          "Name": "labSidefrost0005",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets23.assets",
+      "Assets": [
+        {
+          "PathID": 2,
+          "Name": "labCogitators0010",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3,
+          "Name": "labCogitators0011",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4,
+          "Name": "labCogitators0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5,
+          "Name": "labCogitators0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6,
+          "Name": "hm_look2",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7,
+          "Name": "labCogitators0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8,
+          "Name": "labCogitators0012",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 9,
+          "Name": "lucy_emb",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10,
+          "Name": "sector0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11,
+          "Name": "labCogitators0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 12,
+          "Name": "hm_look1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 13,
+          "Name": "hm_look3",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets24.assets",
+      "Assets": [
+        {
+          "PathID": 2,
+          "Name": "hm_nerv",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3,
+          "Name": "labCogitators0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4,
+          "Name": "labCogitators0009",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5,
+          "Name": "labCogitators0008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6,
+          "Name": "labCogitators0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7,
+          "Name": "hm_think2",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8,
+          "Name": "sector0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 9,
+          "Name": "labCogitators0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10,
+          "Name": "hm_think1",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets20.assets",
+      "Assets": [
+        {
+          "PathID": 2,
+          "Name": "dlcCutscen0",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets18.assets",
+      "Assets": [
+        {
+          "PathID": 2,
+          "Name": "hellLetter_0000_Layer-2-copy",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3,
+          "Name": "hellLetter_0001_Layer-2-copy-2",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4,
+          "Name": "hellLetter_0005_Layer-2-copy-6",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5,
+          "Name": "hellLetter_0006_Layer-2-copy-7",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6,
+          "Name": "hellLetter_0004_Layer-2-copy-5",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7,
+          "Name": "hellLetter_0002_Layer-2-copy-3",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8,
+          "Name": "hellLetter_0003_Layer-2-copy-4",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets14.assets",
+      "Assets": [
+        {
+          "PathID": 2,
+          "Name": "mainUIexport_oUI_start0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3,
+          "Name": "success0010",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4,
+          "Name": "mainUIexport_oUI_idle0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5,
+          "Name": "mainUIexport_oUI_idle0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6,
+          "Name": "mainUIexport_oUI_idle0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7,
+          "Name": "judg_shock",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8,
+          "Name": "mainUIexport_oUI_start0013",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 9,
+          "Name": "mainUIexport_oUI_start0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10,
+          "Name": "mainUIexport_oUI_start0014",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11,
+          "Name": "success0013",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 12,
+          "Name": "mainUIexport_oUI_start0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 13,
+          "Name": "mainUIexport_oUI_idle0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 14,
+          "Name": "mainUIexport_oUI_start0016",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 15,
+          "Name": "mainUIexport_oUI_start0012",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 16,
+          "Name": "success0012",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 17,
+          "Name": "mainUIexport_oUI_idle0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 18,
+          "Name": "success0011",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 19,
+          "Name": "mainUIexport_oUI_start0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 20,
+          "Name": "mainUIexport_oUI_start0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 21,
+          "Name": "mainUIexport_oUI_idle0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 22,
+          "Name": "success0016",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 23,
+          "Name": "success0015",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 24,
+          "Name": "mainUIexport_oUI_start0008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 25,
+          "Name": "mainUIexport_oUI_start0010",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 26,
+          "Name": "mainUIexport_oUI_start0009",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 27,
+          "Name": "mainUIexport_oUI_start0011",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 28,
+          "Name": "mainUIexport_oUI_idle0008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 29,
+          "Name": "judg_resign",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 30,
+          "Name": "mainUIexport_oUI_start0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 31,
+          "Name": "mainUIexport_oUI_start0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 32,
+          "Name": "success0009",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 33,
+          "Name": "success0014",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 34,
+          "Name": "mainUIexport_oUI_start0015",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 35,
+          "Name": "mainUIexport_oUI_idle0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 38,
+          "Name": "succub_capture_01v2",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets17.assets",
+      "Assets": [
+        {
+          "PathID": 2,
+          "Name": "beelSwipe (3)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3,
+          "Name": "beelSwipe (2)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4,
+          "Name": "beel_idle",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5,
+          "Name": "beel_grand",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6,
+          "Name": "beelSwipe (5)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7,
+          "Name": "beelSwipe (8)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8,
+          "Name": "beelSwipe (4)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 9,
+          "Name": "beelSwipe (9)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10,
+          "Name": "beel_pc",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11,
+          "Name": "cutscene_0001_Layer-198",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 12,
+          "Name": "beelSwipe (6)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 13,
+          "Name": "beelSwipe (7)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 14,
+          "Name": "beelSwipe (1)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 16,
+          "Name": "abyss_amb_loop_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 17,
+          "Name": "abyss_start_01",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets15.assets",
+      "Assets": [
+        {
+          "PathID": 2,
+          "Name": "cutscene_0007_Group-6-copy-6",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3,
+          "Name": "cutscene_0006_Group-6-copy-3",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4,
+          "Name": "cutscene_0005_Layer-196",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets2.assets",
+      "Assets": [
+        {
+          "PathID": 2,
+          "Name": "modeus_finalModel0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3,
+          "Name": "modeus_finalModel0012",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4,
+          "Name": "assets100V20118",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5,
+          "Name": "assets100V20116",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6,
+          "Name": "modeus_finalModel0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7,
+          "Name": "mod_idle",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8,
+          "Name": "modeus_finalModel0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 9,
+          "Name": "modeus_finalModel0011",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10,
+          "Name": "assets100V20117",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11,
+          "Name": "boxExport0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 12,
+          "Name": "modeus_finalModel0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 13,
+          "Name": "assets100V20123",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 14,
+          "Name": "modeus_finalModel0009",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 15,
+          "Name": "mod_close",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 16,
+          "Name": "assets100V20122",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 17,
+          "Name": "boxExport0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 18,
+          "Name": "assets100V20121",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 19,
+          "Name": "modeus_finalModel0008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 20,
+          "Name": "modeus_finalModel0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 21,
+          "Name": "modeus_finalModel0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 22,
+          "Name": "modeus_finalModel0010",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 23,
+          "Name": "assets100V20120",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 24,
+          "Name": "assets100V20119",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 25,
+          "Name": "W_selection",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 26,
+          "Name": "modeus_finalModel0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 27,
+          "Name": "chapterBG0002",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets3.assets",
+      "Assets": [
+        {
+          "PathID": 2,
+          "Name": "cerberus_finalModel0008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3,
+          "Name": "cerberus_finalModel0010",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4,
+          "Name": "cerberus_finalModel0009",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5,
+          "Name": "assets100V20110",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6,
+          "Name": "cerberus_finalModel0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7,
+          "Name": "assets100V20114",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8,
+          "Name": "assets100V20105",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 9,
+          "Name": "cerberus_finalModel0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10,
+          "Name": "assets100V20104",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11,
+          "Name": "chapterBG0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 12,
+          "Name": "cerberus_finalModel0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 13,
+          "Name": "backup_lockbox",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 14,
+          "Name": "assets100V20115",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 15,
+          "Name": "cer_happy",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 16,
+          "Name": "assets100V20113",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 17,
+          "Name": "cerberus_finalModel0012",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 18,
+          "Name": "assets100V20106",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 19,
+          "Name": "assets100V20111",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 20,
+          "Name": "cerberus_finalModel0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 21,
+          "Name": "cerberus_finalModel0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 22,
+          "Name": "assets100V20107",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 23,
+          "Name": "assets100V20108",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 24,
+          "Name": "cerberus_finalModel0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 25,
+          "Name": "cerberus_finalModel0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 26,
+          "Name": "assets100V20112",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 27,
+          "Name": "assets100V20109",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 28,
+          "Name": "cer_idle",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 29,
+          "Name": "cerberus_finalModel0011",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 33,
+          "Name": "door_closed_kick_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 34,
+          "Name": "door_closed_kick_03",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 35,
+          "Name": "door_closed_kick_02",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets4.assets",
+      "Assets": [
+        {
+          "PathID": 2,
+          "Name": "boxExport0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3,
+          "Name": "mal_puzzled",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4,
+          "Name": "boxExport0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5,
+          "Name": "malina_finalModel0011",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6,
+          "Name": "malina_finalModel0009",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7,
+          "Name": "malina_finalModel0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8,
+          "Name": "malina_finalModel0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 9,
+          "Name": "malina_finalModel0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10,
+          "Name": "malina_finalModel0012",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11,
+          "Name": "malina_finalModel0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 12,
+          "Name": "malina_finalModel0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 13,
+          "Name": "penta1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 14,
+          "Name": "puzzle",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 15,
+          "Name": "malina_finalModel0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 16,
+          "Name": "mal_idle",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 17,
+          "Name": "boxExport0010",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 18,
+          "Name": "malina_finalModel0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 19,
+          "Name": "malina_finalModel0008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 20,
+          "Name": "malina_finalModel0010",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 21,
+          "Name": "chapterBG0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 24,
+          "Name": "ancient_inscription_pickup_01",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets7.assets",
+      "Assets": [
+        {
+          "PathID": 2,
+          "Name": "justice_finalModel0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3,
+          "Name": "justice_finalModel0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4,
+          "Name": "chapterBG0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5,
+          "Name": "justice_finalModel0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6,
+          "Name": "jus_idle",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7,
+          "Name": "justice_finalModel0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8,
+          "Name": "jus_curious",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 9,
+          "Name": "justice_finalModel0008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10,
+          "Name": "justice_finalModel0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11,
+          "Name": "justice_finalModel0009",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 12,
+          "Name": "justice_finalModel0011",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 13,
+          "Name": "justice_finalModel0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 14,
+          "Name": "justice_finalModel0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 15,
+          "Name": "justice_finalModel0010",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 16,
+          "Name": "justice_finalModel0012",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets8.assets",
+      "Assets": [
+        {
+          "PathID": 2,
+          "Name": "LH_idle",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3,
+          "Name": "LH_face (4)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4,
+          "Name": "lucy_finalModel0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5,
+          "Name": "LH_swirl (5)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6,
+          "Name": "LH_swirl (3)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7,
+          "Name": "LH_face (2)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8,
+          "Name": "LH_happy",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 9,
+          "Name": "dialogueBG_throne2",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10,
+          "Name": "lucy_finalModel0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11,
+          "Name": "LH_swirl (4)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 12,
+          "Name": "LH_swirl (1)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 13,
+          "Name": "dialogueBG_abyss",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 14,
+          "Name": "lucy_finalModel0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 15,
+          "Name": "lucy_finalModel0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 16,
+          "Name": "LH_angry",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 17,
+          "Name": "lucy_finalModel0010",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 18,
+          "Name": "lucy_finalModel0008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 19,
+          "Name": "LH_face (3)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 20,
+          "Name": "lucy_finalModel0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 21,
+          "Name": "lucy_finalModel0011",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 22,
+          "Name": "LH_swirl (2)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 23,
+          "Name": "chapterSketches_EXPORT_throne",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 24,
+          "Name": "LH_face (1)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 25,
+          "Name": "lucy_finalModel0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 26,
+          "Name": "lucy_finalModel0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 27,
+          "Name": "lucy_finalModel0009",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 28,
+          "Name": "lucy_finalModel0012",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 31,
+          "Name": "lucifer_intro_skeleton_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 32,
+          "Name": "lucifer_intro_dialogue_start_v2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 33,
+          "Name": "lucifer_intro_vine_01",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets9.assets",
+      "Assets": [
+        {
+          "PathID": 2,
+          "Name": "chainlink",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3,
+          "Name": "chapterBG0008",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets5.assets",
+      "Assets": [
+        {
+          "PathID": 2,
+          "Name": "zdrada_finalModel0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3,
+          "Name": "boxExport0011",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4,
+          "Name": "zdrada_finalModel0011",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5,
+          "Name": "zdrada_finalModel0012",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6,
+          "Name": "zdrada_finalModel0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7,
+          "Name": "chapterBG0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8,
+          "Name": "z_idle",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 9,
+          "Name": "zdrada_finalModel0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10,
+          "Name": "zdrada_finalModel0010",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11,
+          "Name": "zdrada_finalModel0008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 12,
+          "Name": "zdrada_finalModel0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 13,
+          "Name": "zdrada_finalModel0009",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 14,
+          "Name": "z_laugh",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 15,
+          "Name": "zdrada_finalModel0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 16,
+          "Name": "penta2",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 17,
+          "Name": "zdrada_finalModel0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 18,
+          "Name": "zdrada_finalModel0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 20,
+          "Name": "ancient_inscription_pickup_02",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets6.assets",
+      "Assets": [
+        {
+          "PathID": 2,
+          "Name": "azazel_finalModel0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3,
+          "Name": "boxExport0009",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4,
+          "Name": "cutscene_0000_Layer-197-copy-2",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5,
+          "Name": "chapterBG0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6,
+          "Name": "azazel_finalModel0012",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7,
+          "Name": "azazel_finalModel0010",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8,
+          "Name": "azazel_finalModel0011",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 9,
+          "Name": "azazel_finalModel0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10,
+          "Name": "penta3",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11,
+          "Name": "azazel_finalModel0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 12,
+          "Name": "azazel_finalModel0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 13,
+          "Name": "azazel_finalModel0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 14,
+          "Name": "azazel_finalModel0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 15,
+          "Name": "azazel_finalModel0009",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 16,
+          "Name": "azazel_finalModel0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 17,
+          "Name": "az_idle",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 18,
+          "Name": "azazel_finalModel0008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 19,
+          "Name": "az_note",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 21,
+          "Name": "ancient_inscription_pickup_03",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets11.assets",
+      "Assets": [
+        {
+          "PathID": 2,
+          "Name": "sinPiston0011",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3,
+          "Name": "bridgeOuter",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4,
+          "Name": "judgement_finalModel0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5,
+          "Name": "judgement_jump0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6,
+          "Name": "front",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7,
+          "Name": "sinEye",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8,
+          "Name": "judgement_jump0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 9,
+          "Name": "sinGears0014",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10,
+          "Name": "bridgeInner",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11,
+          "Name": "sinPyre0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 12,
+          "Name": "sinPiston0009",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 13,
+          "Name": "chain25angleBroken",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 14,
+          "Name": "sinPiston0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 15,
+          "Name": "sinGears0011",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 16,
+          "Name": "sinShield",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 17,
+          "Name": "judgement_finalModel0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 18,
+          "Name": "sinPit",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 19,
+          "Name": "sinPiston0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 20,
+          "Name": "judgement_jump0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 21,
+          "Name": "sinMaw",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 22,
+          "Name": "judgement_jump0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 23,
+          "Name": "judgement_finalModel0011",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 24,
+          "Name": "sinPiston0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 25,
+          "Name": "sinGears0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 26,
+          "Name": "assets100V20081",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 27,
+          "Name": "judgement_jump0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 28,
+          "Name": "judgement_jump0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 29,
+          "Name": "sinCore",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 30,
+          "Name": "sinArm",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 31,
+          "Name": "sinPiston0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 32,
+          "Name": "sinSkull0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 33,
+          "Name": "sinGears0012",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 34,
+          "Name": "judgement_finalModel0009",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 35,
+          "Name": "particle0012",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 36,
+          "Name": "judgement_finalModel0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 37,
+          "Name": "judgement_finalModel0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 38,
+          "Name": "sinPanel",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 39,
+          "Name": "judgement_jump0008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 40,
+          "Name": "sinPiston0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 41,
+          "Name": "sinGears0009",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 42,
+          "Name": "chain25angle",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 43,
+          "Name": "sinMist",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 44,
+          "Name": "sinGears0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 45,
+          "Name": "judgement_finalModel0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 46,
+          "Name": "judgement_finalModel0008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 47,
+          "Name": "sinPiston0008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 48,
+          "Name": "judg_angry",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 49,
+          "Name": "sinGears0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 50,
+          "Name": "sinGears0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 51,
+          "Name": "sinWheel",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 52,
+          "Name": "sinGears0010",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 53,
+          "Name": "judgement_finalModel0012",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 54,
+          "Name": "sinGears0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 55,
+          "Name": "sinPiston0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 56,
+          "Name": "sinGears0008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 57,
+          "Name": "sinSkull0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 58,
+          "Name": "judgement_finalModel0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 59,
+          "Name": "judgement_jump0009",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 60,
+          "Name": "judgement_finalModel0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 61,
+          "Name": "sinPiston0012",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 62,
+          "Name": "judgement_finalModel0010",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 63,
+          "Name": "sinGears0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 64,
+          "Name": "sinShieldTop",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 65,
+          "Name": "sinPyre0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 66,
+          "Name": "judg_back",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 67,
+          "Name": "chainlink2",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 68,
+          "Name": "sinPiston0010",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 69,
+          "Name": "judgement_jump0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 70,
+          "Name": "sinGears0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 71,
+          "Name": "sinGears0015",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 72,
+          "Name": "sinPiston0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 73,
+          "Name": "sinGears0013",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 86,
+          "Name": "boss_chain_kick_01R",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 87,
+          "Name": "boss_chain_kick_02L",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 88,
+          "Name": "boss_chain_kick_03R",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 89,
+          "Name": "boss_chain_break_01L",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 90,
+          "Name": "boss_chain_blink_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 91,
+          "Name": "boss_big_chain_show_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 92,
+          "Name": "boss_chain_blink_04",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 93,
+          "Name": "boss_machine_off_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 94,
+          "Name": "boss_chain_break_01R",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 95,
+          "Name": "boss_big_chain_show_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 96,
+          "Name": "boss_chain_kick_02R",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 97,
+          "Name": "boss_chain_kick_03L",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 98,
+          "Name": "boss_chain_blink_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 99,
+          "Name": "boss_chain_kick_01L",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 100,
+          "Name": "boss_judgement_land_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 101,
+          "Name": "boss_machine_start_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 102,
+          "Name": "boss_chain_blink_03",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets16.assets",
+      "Assets": [
+        {
+          "PathID": 2,
+          "Name": "z_ignite3",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3,
+          "Name": "heroapron0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4,
+          "Name": "PORTAL0011",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5,
+          "Name": "judg_pc",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6,
+          "Name": "lucyH_finalModel0010",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7,
+          "Name": "mal_prebottle",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8,
+          "Name": "az_shock",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 9,
+          "Name": "heroapron0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10,
+          "Name": "heroapron0016",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11,
+          "Name": "heroapron0010",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 12,
+          "Name": "spark0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 13,
+          "Name": "z_ignite2",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 14,
+          "Name": "penta",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 15,
+          "Name": "PORTAL0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 16,
+          "Name": "mal_phone",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 17,
+          "Name": "spark0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 18,
+          "Name": "PORTAL0010",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 19,
+          "Name": "z_snap",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 20,
+          "Name": "spark0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 21,
+          "Name": "heroapron0011",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 22,
+          "Name": "pand_drink",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 23,
+          "Name": "spark0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 24,
+          "Name": "lucyH_finalModel0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 25,
+          "Name": "spark0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 26,
+          "Name": "heroapron0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 27,
+          "Name": "PORTAL0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 28,
+          "Name": "heroapron0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 29,
+          "Name": "LW_yum",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 30,
+          "Name": "heroapron0018",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 31,
+          "Name": "lucyH_finalModel0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 32,
+          "Name": "lucyH_finalModel0012",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 33,
+          "Name": "LW_unsure",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 34,
+          "Name": "Home07B",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 35,
+          "Name": "cer_bad",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 36,
+          "Name": "Home07",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 37,
+          "Name": "heroapron0008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 38,
+          "Name": "heroapron0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 39,
+          "Name": "spark0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 40,
+          "Name": "spark0009",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 41,
+          "Name": "heroapron0012",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 42,
+          "Name": "PORTAL0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 43,
+          "Name": "heroapron0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 44,
+          "Name": "heroapron0017",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 45,
+          "Name": "lucyH_finalModel0011",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 46,
+          "Name": "lucyH_finalModel0008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 47,
+          "Name": "PORTAL0008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 48,
+          "Name": "z_ignite4",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 49,
+          "Name": "PORTAL0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 50,
+          "Name": "lucyH_finalModel0004",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 51,
+          "Name": "PORTAL0009",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 52,
+          "Name": "mod_book",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 53,
+          "Name": "lucyH_finalModel0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 54,
+          "Name": "pandS_cup",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 55,
+          "Name": "mod_shy",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 56,
+          "Name": "heroapron0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 57,
+          "Name": "PORTAL0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 58,
+          "Name": "z_ignite1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 59,
+          "Name": "man_pc",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 60,
+          "Name": "spark0008",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 61,
+          "Name": "LW_talk",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 62,
+          "Name": "spark0001",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 63,
+          "Name": "mal_bottle",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 64,
+          "Name": "jus_pc",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 65,
+          "Name": "pandS_drink",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 66,
+          "Name": "lucyH_finalModel0007",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 67,
+          "Name": "dialogueBG_home",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 68,
+          "Name": "pand_cup",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 69,
+          "Name": "PORTAL0002",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 70,
+          "Name": "lucyH_finalModel0006",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 71,
+          "Name": "PORTAL0012",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 72,
+          "Name": "jus_blind",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 73,
+          "Name": "heroapron0015",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 74,
+          "Name": "PORTAL0005",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 75,
+          "Name": "lucyH_finalModel0009",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 76,
+          "Name": "police_2",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 77,
+          "Name": "police_1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 78,
+          "Name": "heroapron0009",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 79,
+          "Name": "heroapron0014",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 80,
+          "Name": "cutscene_0008_Group-5",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 81,
+          "Name": "LW_pc",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 82,
+          "Name": "man_pc2",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 83,
+          "Name": "heroapron0013",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 84,
+          "Name": "beel_fly_portal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 85,
+          "Name": "pandS_idle",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 86,
+          "Name": "policeCar",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 87,
+          "Name": "lucyH_finalModel0003",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 94,
+          "Name": "zdrada_cigarette_tap_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 95,
+          "Name": "zdrada_cigarette_tap_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 96,
+          "Name": "dialogue_start_epilogue_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 97,
+          "Name": "Luminescent",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 98,
+          "Name": "zdrada_cigarette_tap_03",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 99,
+          "Name": "abyss_portal_opening_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 100,
+          "Name": "zdrada_cigarette_tap_04",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets10.assets",
+      "Assets": [
+        {
+          "PathID": 2,
+          "Name": "dialogueBG_sinM2",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3,
+          "Name": "dialogueBG_sin",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4,
+          "Name": "dialBG_litHell",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5,
+          "Name": "j_glove (2)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6,
+          "Name": "J_introAnim1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7,
+          "Name": "J_introAnim4",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8,
+          "Name": "J_introAnim3",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 9,
+          "Name": "j_glove (1)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10,
+          "Name": "j_glove (3)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11,
+          "Name": "J_introAnim2",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 12,
+          "Name": "j_hugeChain",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 13,
+          "Name": "dialBG_darkHell",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 21,
+          "Name": "judgement_intro_start_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 22,
+          "Name": "Epitomize",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 23,
+          "Name": "judgement_intro_anim_01",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets13.assets",
+      "Assets": [
+        {
+          "PathID": 2,
+          "Name": "j_bindAnim (3)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3,
+          "Name": "j_bindAnim (6)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4,
+          "Name": "j_flyAnim (2)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5,
+          "Name": "j_flyAnim (5)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6,
+          "Name": "j_bindAnim (4)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7,
+          "Name": "j_flyAnim (3)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8,
+          "Name": "j_bindChainF",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 9,
+          "Name": "j_bindAnim (7)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10,
+          "Name": "j_flyAnim (4)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11,
+          "Name": "j_bindAnim (2)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 12,
+          "Name": "pentaGraphic 1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 13,
+          "Name": "j_bindAnim (1)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 14,
+          "Name": "j_bindAnim (5)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 15,
+          "Name": "j_bindAnim (8)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 16,
+          "Name": "j_poseAnim (1)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 17,
+          "Name": "j_flyAnim (1)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 18,
+          "Name": "j_poseAnim (3)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 19,
+          "Name": "j_bindAnim (9)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 20,
+          "Name": "j_bindChainB",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 21,
+          "Name": "j_poseAnim (4)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 22,
+          "Name": "j_bindAnim (1b)",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 29,
+          "Name": "chainMove1B",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 30,
+          "Name": "judgement_chain_bind_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 31,
+          "Name": "chainMove2A",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 32,
+          "Name": "chainMove2B",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 33,
+          "Name": "chainMove1A",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 34,
+          "Name": "judgement_chain_summon_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 35,
+          "Name": "judgement_spell_cast_01",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets12.assets",
+      "Assets": [
+        {
+          "PathID": 2,
+          "Name": "j_laugh2",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3,
+          "Name": "LH_rustled",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "level9",
+      "Assets": []
+    },
+    {
+      "Name": "level8",
+      "Assets": []
+    },
+    {
+      "Name": "level7",
+      "Assets": []
+    },
+    {
+      "Name": "level6",
+      "Assets": []
+    },
+    {
+      "Name": "level5",
+      "Assets": []
+    },
+    {
+      "Name": "level4",
+      "Assets": []
+    },
+    {
+      "Name": "level3",
+      "Assets": []
+    },
+    {
+      "Name": "level29",
+      "Assets": []
+    },
+    {
+      "Name": "level28",
+      "Assets": []
+    },
+    {
+      "Name": "level27",
+      "Assets": []
+    },
+    {
+      "Name": "level26",
+      "Assets": []
+    },
+    {
+      "Name": "level25",
+      "Assets": []
+    },
+    {
+      "Name": "level24",
+      "Assets": []
+    },
+    {
+      "Name": "level23",
+      "Assets": []
+    },
+    {
+      "Name": "level22",
+      "Assets": []
+    },
+    {
+      "Name": "level21",
+      "Assets": []
+    },
+    {
+      "Name": "level20",
+      "Assets": []
+    },
+    {
+      "Name": "level2",
+      "Assets": []
+    },
+    {
+      "Name": "level19",
+      "Assets": []
+    },
+    {
+      "Name": "level18",
+      "Assets": []
+    },
+    {
+      "Name": "level17",
+      "Assets": []
+    },
+    {
+      "Name": "level16",
+      "Assets": []
+    },
+    {
+      "Name": "level15",
+      "Assets": []
+    },
+    {
+      "Name": "level14",
+      "Assets": []
+    },
+    {
+      "Name": "level13",
+      "Assets": []
+    },
+    {
+      "Name": "level12",
+      "Assets": []
+    },
+    {
+      "Name": "level11",
+      "Assets": []
+    },
+    {
+      "Name": "level10",
+      "Assets": []
+    },
+    {
+      "Name": "level1",
+      "Assets": []
+    },
+    {
+      "Name": "level0",
+      "Assets": []
+    },
+    {
+      "Name": "globalgamemanagers",
+      "Assets": []
+    }
+  ]
+}
